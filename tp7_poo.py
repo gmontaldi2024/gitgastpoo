@@ -8,6 +8,7 @@ Estrucutrar correctamente la clase alumno:
 Esta podria tener, ademas de los parametros que alamacenaran la infomacion del alumno (nombre, apellido, notas, cantidad de faltas, cantidad de amonestaciones, dirección), metodos que le permitan ingresar una nueva nota, asignar una falta, asignar una amonestacion, cambiar domicilio (puede considerar agregar otros datos relevantes) .
 
 Subir el repositorio en github y adjuntar el link
+
 """
 
 class Alumnos:
